@@ -16,7 +16,7 @@ export const projects = [
         tags: ['Python', 'Numpy', 'PIP'],
       source: 'https://github.com/rudyorre/TensorFaux',
       visit: 'https://rudyorre.github.io/TensorFaux',
-      id: 0,
+      id: 1,
       featured: true,
     },
     {
@@ -26,7 +26,7 @@ export const projects = [
       tags: ['PyTorch'],
       source: 'https://github.com/rudyorre/vit',
       visit: '',
-      id: 0,
+      id: 2,
       featured: true,
     },
     {
@@ -36,7 +36,7 @@ export const projects = [
       tags: ['Python', 'NLTK'],
       source: 'https://github.com/rudyorre/pos-tagger',
       visit: '',
-      id: 0,
+      id: 3,
       featured: true,
     },
     {
@@ -46,7 +46,7 @@ export const projects = [
       tags: ['Python', 'NLTK'],
       source: 'https://github.com/rudyorre/ngram',
       visit: '',
-      id: 0,
+      id: 4,
       featured: true,
     },
     {
@@ -57,7 +57,7 @@ export const projects = [
         tags: ['MERN', 'Yelp API'],
       source: 'https://github.com/rudyorre/restaurant-tinder',
       visit: '',
-      id: 0,
+      id: 5,
       featured: true,
     },
     {
@@ -67,7 +67,7 @@ export const projects = [
         tags: ['Pandas', 'Sci-Kit Learn'],
       source: 'https://github.com/rudyorre/m148-project3',
       visit: '',
-      id: 1,
+      id: 6,
       featured: true,
     },
     {
@@ -77,7 +77,7 @@ export const projects = [
         tags: ['C++'],
       source: 'https://github.com/rudyorre/machine-learning-projects/tree/master/Multivariate-Linear-Regression',
       visit: '',
-      id: 2,
+      id: 7,
       featured: true,
     },
     {
@@ -87,7 +87,7 @@ export const projects = [
       tags: ['C++'],
       source: 'https://github.com/rudyorre/smart-shared-ptr',
       visit: '',
-      id: 3,
+      id: 8,
       featured: false,
     },
     {
@@ -97,7 +97,7 @@ export const projects = [
         tags: ['C++'],
       source: 'https://github.com/rudyorre/El-Camino-College/tree/main/CS-30/Project%201.2%20-%20Map%20(Binary%20Search%20Tree)',
       visit: '',
-      id: 2,
+      id: 9,
       featured: false,
     },
     {
@@ -107,7 +107,7 @@ export const projects = [
       tags: ['React', 'NextJS'],
       source: 'https://github.com/rudyorre/rudyorre.com',
       visit: 'https://rudyorre.com/',
-      id: 3,
+      id: 10,
       featured: true,
     },
   ];
