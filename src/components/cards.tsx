@@ -125,7 +125,7 @@ return (
         <div className="overflow-hidden">
             <img
             className="w-full transform transition-transform duration-300 ease-in-out group-hover:scale-105"
-            src={project.image}
+            src={"/rudyorre.com-test" + project.image}
             style={{
                 aspectRatio: "450/200",
                 objectFit: "cover",
@@ -145,7 +145,7 @@ return (
             }
             <p>   </p>
             {project.visit !== '' ?
-                <Link className="block group/link" href={"/rudyorre.com-test" + project.visit} target="_blank">
+                <Link className="block group/link" href={project.visit} target="_blank">
                     Explore demo <FontAwesomeIcon icon={faArrowUpRightFromSquare} className="transform transition-transform duration-300 ease-in-out group-hover/link:translate-x-1" />
                 </Link>
             :
